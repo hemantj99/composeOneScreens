@@ -8,16 +8,18 @@
   jetpack compose.
 - It also focus on the clean and reusable codes.
 
- ## Packages
+## Packages
 
-- `components`: Includes all the common components here.
+- `components`: Includes all the common components here , which can used in any screen for eg -
+  Icon , space , Icon Button etc....
 - `feature`: For including any UI.
     - `screens` : Includes any single screen UI.
 
 ## How to Contribute
 
 - If you have any single page complex screen UI , you are most welcome.
-- **Note** :- Before start contributing , please check the remaining screens for code quality and `components` package for the common components.
+- **Note** :- Before start contributing , please check the remaining screens for code quality
+  and `components` package for the common components.
 
 ## 🖥️ Screenshots
 
@@ -28,9 +30,9 @@
     <th>Electric Car Charging UI</th>
   </tr>
   <tr>
-    <td><img src="screenshots/taskManagement.png" height="500" alt="task_management"/></td>
-    <td><img src="screenshots/NFT.png" height="500" alt="nft_mobile"/></td>
-    <td><img src="screenshots/electric_car.png" height="500" alt="electric+_car"/></td>
+    <td><img src="screenshots/taskManagement.png" alt="task_management"/></td>
+    <td><img src="screenshots/NFT.png"  alt="nft_mobile"/></td>
+    <td><img src="screenshots/electric_car.png"  alt="electric+_car"/></td>
   </tr>
 </table>
 <table style="width:100%">
@@ -40,9 +42,9 @@
    <th>Timer UI</th>
   </tr>
   <tr>
-    <td><img src="screenshots/chat.png" height="500" alt="chat_ui"/></td>
-    <td><img src="screenshots/instagram.png" height="500" alt="insta_ui"/></td>
-   <td><img src="screenshots/Timer.png" height="500" alt="timer_ui"/></td>
+    <td><img src="screenshots/chat.png" alt="chat_ui"/></td>
+    <td><img src="screenshots/instagram.png"  alt="insta_ui"/></td>
+   <td><img src="screenshots/Timer.png" alt="timer_ui"/></td>
   </tr>
 </table>
 
@@ -53,9 +55,9 @@
     <th>Health UI</th>
   </tr>
   <tr>
-    <td><img src="screenshots/twitter_profile.png" height="500" alt="twitter_profile_ui"/></td>
-    <td><img src="screenshots/chatting.png" height="500" alt="chatting_ui"/></td>
-    <td><img src="screenshots/health_ui.png" height="500" alt="health_ui"/></td>
+    <td><img src="screenshots/twitter_profile.png" alt="twitter_profile_ui"/></td>
+    <td><img src="screenshots/chatting.png" alt="chatting_ui"/></td>
+    <td><img src="screenshots/health_ui.png" alt="health_ui"/></td>
   </tr>
 </table>
 
@@ -66,9 +68,18 @@
     <th>Instagram Profile screen UI</th>
   </tr>
   <tr>
-    <td><img src="screenshots/tesla_ui.png" height="500" alt="tesla_ui"/></td>
-    <td><img src="screenshots/scoreboard_ui.png" height="500" alt="scoreboard_ui"/></td>
-    <td><img src="screenshots/insta_profile.png" height="500" alt="scoreboard_ui"/></td>
+    <td><img src="screenshots/tesla_ui.png"  alt="tesla_ui"/></td>
+    <td><img src="screenshots/scoreboard_ui.png"  alt="scoreboard_ui"/></td>
+    <td><img src="screenshots/insta_profile.png"  alt="scoreboard_ui"/></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Shoes App UI</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/shoes_app.png" alt="shoes_ui" height="500"/></td>
   </tr>
 </table>
 
